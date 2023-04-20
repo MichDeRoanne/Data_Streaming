@@ -52,6 +52,6 @@ To produce the events, run the file **'logsproducer.py'**
 To consume the events from the data-lake route, run the file **'data_lake_consumer.py'**
 
 
-## Data-clean-consumer
+## Data_clean_consumer
 
-To consume the events from the data-clean route, run the file **'data-clean-consumer.py'**
+To consume the events from the data-clean route, run the file **'data_clean_consumer.py'**
