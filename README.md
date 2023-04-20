@@ -2,7 +2,7 @@
 
 The aim of this project is to process logs from an Nginx server.
 
-The logs will be processed via a route that includes a producer and two consumers, which will insert the processed and cleaned logs into specific tables in the database.
+The logs will be processed via a route that includes a producer and two consumers, which will insert the processed and cleaned logs into specific tables in .csv file.
 
 
 ## Required
