@@ -1,4 +1,4 @@
-# Prodject Data Streaming
+# Project Data Streaming
 
 The aim of this project is to process logs from an Nginx server.
 
