@@ -30,10 +30,10 @@ pip install -r requirements.txt
 
 ## Docker
 
-The docker-compose file will create the containers RabbitMQ.
+The docker-compose file will create the container RabbitMQ.
 
 
-## Build and run the Docker image: :
+## Build and run the Docker image
 
 Execute:
 
